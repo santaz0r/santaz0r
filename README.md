@@ -15,7 +15,7 @@
 - SPA-app [Online Store](https://santaz0r-te1epuz-online-store.netlify.app/) online store application [Source](https://github.com/santaz0r/online-store/tree/develop)
 - App [Song Bird](https://santaz0r.github.io/rss-projects/song-bird/) guess the bird by sound  [Source](https://github.com/santaz0r/rss-projects/tree/song-bird/song-bird)
 - App [Gem Puzzle](https://santaz0r.github.io/rss-projects/codejam/) Gem Puzzle  [Source](https://github.com/santaz0r/rss-projects/tree/codejam/codejam)
-- App [Online zoo](https://santaz0r.github.io/rss-projects/online-zoo/pages/main/) guess the bird by sound  [Source](https://github.com/santaz0r/rss-projects/tree/online-zoo/online-zoo)
+- App [Online zoo](https://santaz0r.github.io/rss-projects/online-zoo/pages/main/) landing page  [Source](https://github.com/santaz0r/rss-projects/tree/online-zoo/online-zoo)
 
 
 <!--
