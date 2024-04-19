@@ -16,6 +16,7 @@
 - App [Song Bird](https://santaz0r.github.io/rss-projects/song-bird/) guess the bird by sound  [Source](https://github.com/santaz0r/rss-projects/tree/song-bird/song-bird)
 - App [Gem Puzzle](https://santaz0r.github.io/rss-projects/codejam/) Gem Puzzle  [Source](https://github.com/santaz0r/rss-projects/tree/codejam/codejam)
 - App [Online zoo](https://santaz0r.github.io/rss-projects/online-zoo/pages/main/) landing page  [Source](https://github.com/santaz0r/rss-projects/tree/online-zoo/online-zoo)
+- SPA-app [Instant Heal](https://rss-instant-heal.netlify.app/) for make an appointment to polyclinic [Source](https://github.com/santaz0r/RS-clone)
 
 
 <!--
