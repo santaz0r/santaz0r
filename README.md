@@ -10,8 +10,8 @@
 
 
 ## Some Projects
-
-- SPA-app [Instant Heal](https://rss-instant-heal.netlify.app/) for make an appointment to polyclinic [Source](https://github.com/santaz0r/RS-clone)
+- SPA-app [App](https://itsolutions-test.netlify.app/) React with Tailwind [Source](https://github.com/santaz0r/itsolutions)
+- SPA-app [Todo app](https://todosclient.netlify.app/) todo application [Source](https://github.com/santaz0r/todo/tree/develop)
 - SPA-app [Online Store](https://santaz0r-te1epuz-online-store.netlify.app/) online store application [Source](https://github.com/santaz0r/online-store/tree/develop)
 - App [Song Bird](https://santaz0r.github.io/rss-projects/song-bird/) guess the bird by sound  [Source](https://github.com/santaz0r/rss-projects/tree/song-bird/song-bird)
 - App [Gem Puzzle](https://santaz0r.github.io/rss-projects/codejam/) Gem Puzzle  [Source](https://github.com/santaz0r/rss-projects/tree/codejam/codejam)
